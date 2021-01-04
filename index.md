@@ -6,7 +6,7 @@ You can collect online payments from your GitHub Pages too!
 
 You can use pMP payment page links as regular links or linked buttons:
 
-![SSL Certificates Made Easy cover](ssl_certs_made_simple-3dcover.png)
+![SSL Certificates Made Easy cover](/pmpdemo/ssl_certs_made_simple-3dcover.png)
 
 [Buy Now](http://pay2.xyz/501)
 
