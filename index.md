@@ -8,7 +8,7 @@ You can use pMP payment page links as regular links or linked buttons:
 
 ![SSL Certificates Made Easy cover](/pmpdemo/ssl_certs_made_simple-3dcover.png)
 
-{% include button.html url="http://pay2.xyz/501" %}
+<button name="button" onclick="http://pay2.xyz/501">Buy Now</button>
 
 [Buy Now](http://pay2.xyz/501)
 
